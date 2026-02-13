@@ -1,0 +1,14 @@
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/bin/Debug/net10.0/TaskVsValueTaskDemo
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/bin/Debug/net10.0/TaskVsValueTaskDemo.deps.json
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/bin/Debug/net10.0/TaskVsValueTaskDemo.runtimeconfig.json
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/bin/Debug/net10.0/TaskVsValueTaskDemo.dll
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/bin/Debug/net10.0/TaskVsValueTaskDemo.pdb
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.AssemblyInfoInputs.cache
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.AssemblyInfo.cs
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.csproj.CoreCompileInputs.cache
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.dll
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/refint/TaskVsValueTaskDemo.dll
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.pdb
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/TaskVsValueTaskDemo.genruntimeconfig.cache
+/Users/pedram/Desktop/NeptaPaydar/TaskVsValueTaskDemo/TaskVsValueTaskDemo/obj/Debug/net10.0/ref/TaskVsValueTaskDemo.dll
